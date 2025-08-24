@@ -1,3 +1,9 @@
+### 👋 ¡Bienvenido a mi perfil!
+
+🔍 Soy Juan Manuel Pena, desarrollador web en formación con experiencia en proyectos reales.
+
+👉 [Conocé más sobre mí](#) o explorá mis proyectos destacados acá abajo.  
+
 <h1 align="center">👋 Hola, soy Juan Manuel Pena</h1>
 
 <p align="center">
