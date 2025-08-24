@@ -62,12 +62,12 @@ Desarrollador web con base sólida en **Frontend** y en crecimiento como **Full 
 
 ---
 
-## 📈 Stats de GitHub
+## 📊 Stats de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanmapena&show_icons=true&theme=default" alt="github stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmapena" alt="github streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmapena&theme=default" alt="github streaks" />
 </p>
 
 ---
