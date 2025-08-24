@@ -53,9 +53,9 @@ Desarrollador web con base sólida en **Frontend** y en crecimiento como **Full 
 
 | Proyecto | Descripción | Visualización |
 |---------|-------------|------|
-| 🛍️ [Sneakers Arg](https://juanmapena.github.io/PF-Pena/) | E-commerce ficticio de zapatillas. HTML + CSS puro, diseño modular y responsive. | 🌐 [GitHub Pages](https://juanmapena.github.io/PF-Pena/)
+| 🛍️ [Sneakers Arg](https://juanmapena.github.io/PF-Pena/) | E-commerce ficticio de zapatillas. HTML + CSS puro, diseño modular y responsive. | 🌐 [Link](https://juanmapena.github.io/PF-Pena/)
 | ⚛️ [PF-React](https://github.com/juanmapena/PF-React) | Tienda online desarrollada con React.js, componentes reutilizables, manejo de estados. | 🌐 [Repo](https://github.com/juanmapena/PF-React) |
-| 🧠 [App Interactiva - DOM JS](https://juanmapena.github.io/Proyecto-Final-Pena/) | Lógica DOM, interactividad, diseño dinámico con JavaScript puro. | 🌐 [GitHub Pages](https://juanmapena.github.io/Proyecto-Final-Pena/) |
+| 🧠 [App Interactiva - DOM JS](https://juanmapena.github.io/Proyecto-Final-Pena/) | Lógica DOM, interactividad, diseño dinámico con JavaScript puro. | 🌐 [Link](https://juanmapena.github.io/Proyecto-Final-Pena/) |
 | 🔥 Gestor de Colecciones Digitales | Juego de consola en Java para coleccionar cartas Pokémon; usa POO, arrays y lógica de juego. | 🌐 [Repo](https://github.com/juanmapena/Gestor-De-Colecciones-Digitales) |
 | 👥 Sistema de Gestión de Usuarios | Aplicación consola en Java para gestionar usuarios (crear, login, desbloqueo, estadísticas). | 🌐 [Repo](https://github.com/juanmapena/Sistema-De-Gestion-De-Usuarios) |
 
