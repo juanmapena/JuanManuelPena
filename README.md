@@ -76,7 +76,7 @@ Desarrollador web con base sólida en **Frontend** y en crecimiento como **Full 
 
 - 🏫 **UNLAM** - Técnico Universitario en Desarrollo Web (2024 - Presente)
 - 🎓 **CoderHouse** - Carrera de Frontend Developer (2023)
-- 🐍 **Santander Open Academy** - Curso de Python práctico
+- 🐍 **Santander Open Academy** - Curso de Python práctico (2025)
 - 🇬🇧 Instituto English Now – Inglés nivel B2 (2012 - 2019)
 
 ---
