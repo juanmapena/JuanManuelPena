@@ -11,10 +11,17 @@
 Desarrollador web con base sólida en **Frontend** y en crecimiento como **Full Stack**, actualmente estudiando en la **UNLAM** y egresado de **CoderHouse**. Me especializo en interfaces accesibles, responsive y con foco en la experiencia de usuario.  
 
 🔎 Me destaco por:
-- Desarrollo de componentes reutilizables
-- Integración con APIs REST
-- Enfoque en UX/UI
-- Trabajo en equipo y compromiso
+
+- 🧩 Desarrollo de interfaces modulares con componentes reutilizables (HTML, CSS, React.js)
+- 🔌 Integración de APIs RESTful y manejo dinámico del DOM
+- 📱 Diseño responsive y mobile-first enfocado en experiencia de usuario (UX/UI)
+- ♿ Aplicación de buenas prácticas de accesibilidad y compatibilidad cross-browser
+- 🧠 Capacidad de análisis y lógica estructurada para resolver desafíos técnicos
+- ⚙️ Fluidez en herramientas de control de versiones (Git, GitHub) y automatización básica (npm, scripts)
+- 🧪 Testing manual en navegadores y dispositivos
+- 🤝 Trabajo colaborativo en equipos ágiles y proactividad para asumir nuevos desafíos
+- 🚀 Compromiso con la mejora continua y aprendizaje constante (Node.js, Java, Python, Next.js)
+
 
 ---
 
