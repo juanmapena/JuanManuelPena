@@ -53,7 +53,7 @@ Desarrollador web con base sólida en **Frontend** y en crecimiento como **Full 
 
 | Proyecto | Descripción | Demo |
 |---------|-------------|------|
-| 🛍️ [Sneakers Arg]((https://juanmapena.github.io/PF-Pena/)) | E-commerce ficticio de zapatillas. HTML + CSS puro, diseño modular y responsive. | 🌐 [GitHub] 
+| 🛍️ [Sneakers Arg](https://juanmapena.github.io/PF-Pena/) | E-commerce ficticio de zapatillas. HTML + CSS puro, diseño modular y responsive. | 🌐 [Demo] ..(https://juanmapena.github.io/PF-Pena/) |
 | ⚛️ [PF-React](https://github.com/juanmapena/PF-React) | Tienda online desarrollada con React.js, componentes reutilizables, manejo de estados. | 🌐 [GitHub](https://github.com/juanmapena/PF-React) |
 | 🧠 [App Interactiva - DOM JS](https://juanmapena.github.io/Proyecto-Final-Pena/) | Lógica DOM, interactividad, diseño dinámico con JavaScript puro. | 🌐 [Demo](https://juanmapena.github.io/Proyecto-Final-Pena/) |
 | 🔥 Gestor de Colecciones Digitales | Juego de consola en Java para coleccionar cartas Pokémon; usa POO, arrays y lógica de juego. | 🌐 [Repo](https://github.com/juanmapena/Gestor-De-Colecciones-Digitales) |
